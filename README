@@ -1,0 +1,1 @@
+VSNet2010cmdhere.inf: Hack of hack of a Visual Studio PowerToy that adds context menu entries in Windows Explorer to open a command prompt with all of the VS vars in your environment for VS 2010, assuming it's installed in C:\Program Files\Microsoft Visual Studio 10.0.
